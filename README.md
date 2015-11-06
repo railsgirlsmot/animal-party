@@ -194,5 +194,21 @@ You will:
   * `git stash` and `git stash pop` are quite useful commands. `git stash` basically hides away all of the changes you have made and not committed, then `git stash pop` brings them back out again.
   * If none of these are working, you might not be in the right directory - try `pwd` to see what directory you are in, `ls` to see what folders are in the directory you are in, and `cd fan-fiction-github-challenge` if you're in the parent directory.
 
-* ###### You know, I don't even like/haven't even read Harry Potter/don't ship the ship this story is shipping, but I do want that GitHub sticker/the joy of knowledge.
-  Why not create a new file in this repository and start another story?
+* ###### I want to add a picture!
+  Great. You can do this two ways:
+
+  * A picture hosted elsewhere on the internet
+  Grab the URL of your picture
+  There are more instructions for markdown tricks in this [markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+  ```
+  ![Bub!](http://i.imgur.com/RkcdUD1.gif)
+  ```
+  ![Bub!](http://i.imgur.com/RkcdUD1.gif)
+
+  * Putting a picture in this repository
+
+  ```
+  ![Merrin's cat!](images/merrins-cat.jpg)
+  ```
+  ![Merrin's cat!](images/merrins-cat.jpg)
+
