@@ -5,6 +5,9 @@ zebra unicorns are AWESOME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  Ewok he is coming to the party he is bringing his cloak with his bow and arrow. He is from star wars!
 He is very excited here is a photo! yay!
 
+Heather the hula hooping hippo was stoked to be on the invite list to the animal party. Watch out for her in her purple tutu.
+![Heather the Hippo](http://www.playinterference.com/game_images/games/222/22216/295/22216-15077-795660.jpg)
+
 ![shaddow]
 (./images/DSCF1340.JPG)
 
