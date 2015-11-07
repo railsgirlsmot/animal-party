@@ -1,4 +1,4 @@
-# Animal Party
+# Animal Party!
 
 Once upon a time in Motueka, some humans threw a party for animals. First to arrive was Merrin's cat, Jack, who she brought from Wellington. He found someone to cuddle him.
 
@@ -9,6 +9,7 @@ Next to arrive was Chico, the cutest, cuddliest canine ever - Tania's smoochey s
 ![](images/Tanias-Chico.jpg)
 
 Goofy arrived at the party, really keen to see everyone.  He sauntered towards his friends and unfortunately tripped over his feed and landed on his nose.  Phlamb!!  Ouch!!!  "oh golly gosh" he said.  He picked himself up and continued on across the room.
+
 #Goofy
 ![Goofy](images/goofy.jpg)
 
@@ -43,6 +44,8 @@ the snow witch came next then she froze the whole party
 # Check out the groovy guinea pigs at the animal party!
 ![guineapigs](images/guinea_pigs.jpg)
 
+![SPIDER WARS](images/spider_wars.gif)
+
 once apon a time there was an owl that flapped her wings about and grooved on the dance floor at the animal party
 ![white_owl](images/white_owl.jpg)
 
@@ -54,5 +57,4 @@ He is very excited here is a photo! yay!
 Heather the hula hooping hippo was stoked to be on the invite list to the animal party. Watch out for her in her purple tutu.
 ![Heather the Hippo](http://www.playinterference.com/game_images/games/222/22216/295/22216-15077-795660.jpg)
 
-![shaddow]
-(./images/DSCF1340.JPG)
+![shaddow](./images/DSCF1340.JPG)
