@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Animal Party
 
 zebra unicorns are AWESOME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -46,7 +45,6 @@ The cake exploded into crumbs and went everywhere.
 Then the door burst open and 20 dogs pulling a unicorn on a sleigh came trought the door.
 the snow witch came next then she froze the whole party
 
-                       the end
 
 Goofy arrived at the party, really keen to see everyone.  He sauntered towards his friends and unfortunately tripped over his feed and landed on his nose.  Phlamb!!  Ouch!!!  "oh golly gosh" he said.  He picked himself up and continued on across the room.
 #Goofy
