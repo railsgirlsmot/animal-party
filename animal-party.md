@@ -1,4 +1,5 @@
 Animal Party!
+
  Ewok he is coming to the party he is bringing his cloak with his bow and arrow. He is from star wars!
 He is very excited here is a photo! yay!
 
@@ -18,4 +19,6 @@ Woop woop love partys and animals. I need Gin.
 
 ![serpent]
 (http://www.wow-petopia.com/images/skin_pix/serpentskinwhite.jpg)
->>>>>>> master
+
+Tenzing the Yak climbed to get the famed mountain chocolate from the Buddhist monks at the top of the Himalayan Ranges.
+When the monks found that he was bringing the special chocolate to the Rails Girls in Motueka, they packed his bags fully!
