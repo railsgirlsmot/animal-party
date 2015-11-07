@@ -22,7 +22,7 @@ You will:
 
 
   ```sh
-  $ git clone https://github.com/railsgirlswgtn/fan-fiction-github-challenge.git
+  $ git clone https://github.com/railsgirlsmot/animal-party.git
   ```
 
   This creates a copy of this **repository** on your computer. In other words, it creates a new folder called `fan-fiction-github-challenge` full of everything you see here.
@@ -211,4 +211,3 @@ You will:
   ![Merrin's cat!](images/merrins-cat.jpg)
   ```
   ![Merrin's cat!](images/merrins-cat.jpg)
-
