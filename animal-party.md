@@ -67,3 +67,7 @@ Heather the hula hooping hippo was stoked to be on the invite list to the animal
 
 ![shaddow](./images/DSCF1340.JPG)
 
+![](http://www.aqua.org/~/media/Images/Animals/blue-poison-dart-frog/animals-blue-poison-frog-slide1.jpg)
+
+Watch out! Even though we are not inviting the poisonous dart frog
+
