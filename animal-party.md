@@ -23,6 +23,14 @@ Woop woop love partys and animals. I need Gin.
 ![serpent]
 (http://www.wow-petopia.com/images/skin_pix/serpentskinwhite.jpg)
 
+![](http://weknowyourdreams.com/images/rabbit/rabbit-09.jpg)
+
+Animal Party is happening today
+Jerry the Rabbit is coming to stay
+He hopes there'll be bunnies, he wants to play
+He hopes his friend is coming this way
+Because the animal party is happening today
+
 Tenzing the Yak climbed to get the famed mountain chocolate from the Buddhist monks at the top of the Himalayan Ranges.
 When the monks found that he was bringing the special chocolate to the Rails Girls in Motueka, they packed his bags fully!
 
@@ -58,3 +66,4 @@ Heather the hula hooping hippo was stoked to be on the invite list to the animal
 ![Heather the Hippo](http://www.playinterference.com/game_images/games/222/22216/295/22216-15077-795660.jpg)
 
 ![shaddow](./images/DSCF1340.JPG)
+
