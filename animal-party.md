@@ -29,3 +29,20 @@ Tenzing the Yak climbed to get the famed mountain chocolate from the Buddhist mo
 When the monks found that he was bringing the special chocolate to the Rails Girls in Motueka, they packed his bags fully!
 
 The camel made a nice cream cake to take to the party.she made sure she was wearing her best dress and hat.When she arrived she handed the cake in and talked to all her friends who were there.
+
+once upon a time,
+a unicorn got a letter inviting her to a party from her sister on the back of the invition was:
+
+
+ ![unicorn](images/amazing.jpg)
+
+
+when Rebecca the unicorn got to the party she saw cake and went running towards it.
+she got faster and faster.
+As she got closer she could not stop and fell into the cake.
+The cake exploded into crumbs and went everywhere.
+
+Then the door burst open and 20 dogs pulling a unicorn on a sleigh came trought the door.
+the snow witch came next then she froze the whole party
+
+                       the end
