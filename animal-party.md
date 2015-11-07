@@ -27,3 +27,5 @@ Woop woop love partys and animals. I need Gin.
 
 Tenzing the Yak climbed to get the famed mountain chocolate from the Buddhist monks at the top of the Himalayan Ranges.
 When the monks found that he was bringing the special chocolate to the Rails Girls in Motueka, they packed his bags fully!
+
+The camel made a nice cream cake to take to the party.she made sure she was wearing her best dress and hat.When she arrived she handed the cake in and talked to all her friends who were there.
