@@ -25,7 +25,7 @@ You will:
   $ git clone https://github.com/railsgirlsmot/animal-party.git
   ```
 
-  This creates a copy of this **repository** on your computer. In other words, it creates a new folder called `animal-party` full of everything you see here.
+  This creates a copy of this **repository** on your computer. In other words, it creates a new folder called `animal-party-github-challenge` full of everything you see here.
 
 
 3. ###### Navigate into the folder
@@ -58,17 +58,17 @@ You will:
 5. ###### Make an edit
 
 
-  Open the file fan-fiction.md in your text editor. This file is in **markdown**. Check out [this guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to formatting in markdown. You can embed images, links, lists, headings, whatever you like!
+  Open the file animal-party.md in your text editor. This file is in **markdown**. Check out [this guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to formatting in markdown. You can embed images, links, lists, headings, whatever you like!
 
 
 6. ###### Add your changed file to the staging area
 
 
   ```sh
-  $ git add fan-fiction.md
+  $ git add animal-party.md
   ```
 
-  This puts fan-fiction.md into the **staging area**. If you make another change, it will be removed from it.
+  This puts animal-party.md into the **staging area**. If you make another change, it will be removed from it.
 
   To see what files you've changed and what is in your **staging area**, you can type `git status`. `git diff` will show you a more detailed view of the changes in your files.
 
@@ -131,8 +131,8 @@ You will:
     * If you have made commits since making the branch, given that there a bunch of people editing the same file, it is extremely likely that you will have **merge conflicts**. You'll see this:
 
       ```
-      Auto-merging fan-fiction.md
-      CONFLICT (content): Merge conflict in fan-fiction.md
+      Auto-merging animal-party.md
+      CONFLICT (content): Merge conflict in animal-party.md
       Automatic merge failed; fix conflicts and then commit the result.
       ```
 
@@ -166,16 +166,16 @@ You will:
     Unmerged paths:
     (use "git add <file>..." to mark resolution)
 
-    both modified:   fan-fiction.md
+    both modified:   animal-party.md
     ```
-    If you `git add fan-fiction.md` then run `git status` again you should get:
+    If you `git add animal-party.md` then run `git status` again you should get:
     ```
     All conflicts fixed but you are still merging.
     (use "git commit" to conclude merge)
 
     Changes to be committed:
 
-    modified:   fan-fiction.md
+    modified:   animal-party.md
     ```
     Now, like it suggests, you can run `git commit` - or `git commit -m 'whatever your message is'` if you want to include a custom commit message.
 
@@ -192,7 +192,7 @@ You will:
   * `git log` shows you a record of commits. It opens up in your command line text file reader, which you can get out of by typing `:q`.
   * `git branch` has information about all of the branches you have going on and which one is active.
   * `git stash` and `git stash pop` are quite useful commands. `git stash` basically hides away all of the changes you have made and not committed, then `git stash pop` brings them back out again.
-  * If none of these are working, you might not be in the right directory - try `pwd` to see what directory you are in, `ls` to see what folders are in the directory you are in, and `cd fan-fiction-github-challenge` if you're in the parent directory.
+  * If none of these are working, you might not be in the right directory - try `pwd` to see what directory you are in, `ls` to see what folders are in the directory you are in, and `cd animal-party-github-challenge` if you're in the parent directory.
 
 * ###### I want to add a picture!
   Great. You can do this two ways:
