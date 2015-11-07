@@ -25,13 +25,13 @@ You will:
   $ git clone https://github.com/railsgirlsmot/animal-party.git
   ```
 
-  This creates a copy of this **repository** on your computer. In other words, it creates a new folder called `fan-fiction-github-challenge` full of everything you see here.
+  This creates a copy of this **repository** on your computer. In other words, it creates a new folder called `animal-party` full of everything you see here.
 
 
 3. ###### Navigate into the folder
 
   ```sh
-  $ cd fan-fiction-github-challenge
+  $ cd animal-party
   ```
 
   `cd` is short for **change directory**. This is how you navigate through your file system using the terminal.
