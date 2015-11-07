@@ -1,19 +1,17 @@
 # Animal Party!
 
-zebra unicorns are AWESOME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-
- Ewok he is coming to the party he is bringing his cloak with his bow and arrow. He is from star wars!
-He is very excited here is a photo! yay!
-
-Heather the hula hooping hippo was stoked to be on the invite list to the animal party. Watch out for her in her purple tutu.
-![Heather the Hippo](http://www.playinterference.com/game_images/games/222/22216/295/22216-15077-795660.jpg)
-
-![shaddow]
-(./images/DSCF1340.JPG)
-
 Once upon a time in Motueka, some humans threw a party for animals. First to arrive was Merrin's cat, Jack, who she brought from Wellington. He found someone to cuddle him.
 
 ![](images/merrins-cat.jpg)
+
+Next to arrive was Chico, the cutest, cuddliest canine ever - Tania's smoochey shih tzu "moko-puppy" (Mokopuna is the Maori term for grandchild).
+
+![](images/Tanias-Chico.jpg)
+
+Goofy arrived at the party, really keen to see everyone.  He sauntered towards his friends and unfortunately tripped over his feed and landed on his nose.  Phlamb!!  Ouch!!!  "oh golly gosh" he said.  He picked himself up and continued on across the room.
+
+#Goofy
+![Goofy](images/goofy.jpg)
 
 Joy the Unicorn popped in for a visit. She started off the day full of enthusiasm and feeling like she could take on the world. By 3pm she wasn't quite floating on air like before....
 ![](fat-unicorn.jpg)
@@ -33,7 +31,7 @@ The camel made a nice cream cake to take to the party.she made sure she was wear
 once upon a time,
 a unicorn got a letter inviting her to a party from her sister on the back of the invition was:
 
- ![unicorn](images/amazing.jpg)
+![unicorn](images/amazing.jpg)
 
 when Rebecca the unicorn got to the party she saw cake and went running towards it.
 she got faster and faster.
@@ -43,12 +41,20 @@ The cake exploded into crumbs and went everywhere.
 Then the door burst open and 20 dogs pulling a unicorn on a sleigh came trought the door.
 the snow witch came next then she froze the whole party
 
-
-Goofy arrived at the party, really keen to see everyone.  He sauntered towards his friends and unfortunately tripped over his feed and landed on his nose.  Phlamb!!  Ouch!!!  "oh golly gosh" he said.  He picked himself up and continued on across the room.
-#Goofy
-![Goofy](images/goofy.jpg)
-
 # Check out the groovy guinea pigs at the animal party!
 ![guineapigs](images/guinea_pigs.jpg)
 
 ![SPIDER WARS](images/spider_wars.gif)
+
+once apon a time there was an owl that flapped her wings about and grooved on the dance floor at the animal party
+![white_owl](images/white_owl.jpg)
+
+zebra unicorns are AWESOME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+ Ewok he is coming to the party he is bringing his cloak with his bow and arrow. He is from star wars!
+He is very excited here is a photo! yay!
+
+Heather the hula hooping hippo was stoked to be on the invite list to the animal party. Watch out for her in her purple tutu.
+![Heather the Hippo](http://www.playinterference.com/game_images/games/222/22216/295/22216-15077-795660.jpg)
+
+![shaddow](./images/DSCF1340.JPG)
