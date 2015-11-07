@@ -1,4 +1,6 @@
 Animal Party!
+ Ewok he is coming to the party he is bringing his cloak with his bow and arrow. He is from star wars!
+He is very excited here is a photo! yay!
 
 ![shaddow]
 (./images/DSCF1340.JPG)
@@ -16,3 +18,4 @@ Woop woop love partys and animals. I need Gin.
 
 ![serpent]
 (http://www.wow-petopia.com/images/skin_pix/serpentskinwhite.jpg)
+>>>>>>> master
