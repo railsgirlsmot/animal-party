@@ -1,4 +1,4 @@
-Animal Party
+# Animal Party
 
 zebra unicorns are AWESOME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -52,3 +52,6 @@ Goofy arrived at the party, really keen to see everyone.  He sauntered towards h
 
 # Check out the groovy guinea pigs at the animal party!
 ![guineapigs](images/guinea_pigs.jpg)
+
+once apon a time there was an owl that flapped her wings about and grooved on the dance floor at the animal party
+![white_owl](images/white_owl.jpg)
