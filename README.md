@@ -91,7 +91,7 @@ You will:
 
   This copies your branch information to the repository on GitHub.
 
-  You should be able to see your branch [here](https://github.com/railsgirlswgtn/fan-fiction-github-challenge/branches).
+  You should be able to see your branch [here](https://github.com/railsgirlsmot/animal-party/branches).
 
 
 9. ###### Create a pull request to master on github
