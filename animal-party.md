@@ -17,6 +17,9 @@ Joy the Unicorn popped in for a visit. She started off the day full of enthusias
 ![](fat-unicorn.jpg)
 She then wondered if her attempt at inserting an image worked. Joy the Unicorn is getting a headache now :-)
 
+![](bonobo.jpg)
+How I feel about github
+
 ![](http://i.onionstatic.com/clickhole/2276/original/1200.jpg)
 Woop woop love partys and animals. I need Gin.
 
