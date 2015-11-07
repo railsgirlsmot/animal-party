@@ -1,7 +1,7 @@
 Animal Party!
-<<<<<<< HEAD
 
-=======
+![shaddow]
+(./images/DSCF1340.JPG)
 
 Once upon a time in Motueka, some humans threw a party for animals. First to arrive was Merrin's cat, Jack, who she brought from Wellington. He found someone to cuddle him.
 
@@ -13,3 +13,4 @@ She then wondered if her attempt at inserting an image worked. Joy the Unicorn i
 
 ![](http://i.onionstatic.com/clickhole/2276/original/1200.jpg)
 Woop woop love partys and animals. I need Gin.
+
