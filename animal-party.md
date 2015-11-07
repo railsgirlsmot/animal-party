@@ -36,6 +36,9 @@ When the monks found that he was bringing the special chocolate to the Rails Gir
 
 The camel made a nice cream cake to take to the party.she made sure she was wearing her best dress and hat.When she arrived she handed the cake in and talked to all her friends who were there.
 
+![] (https://www.youtube.com/watch?v=Jn_5RjLiGHY&noredirect=1)
+On seeing one another and the splendid celebration, the animals broke out in a harmonious chorus
+
 once upon a time,
 a unicorn got a letter inviting her to a party from her sister on the back of the invition was:
 
@@ -71,3 +74,4 @@ Heather the hula hooping hippo was stoked to be on the invite list to the animal
 
 Watch out! Even though we are not inviting the poisonous dart frog
 
+Rohellio the Alpaca
