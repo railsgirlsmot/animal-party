@@ -1,6 +1,4 @@
-Animal Party
-
-zebra unicorns are AWESOME!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Animal Party!
 
  Ewok he is coming to the party he is bringing his cloak with his bow and arrow. He is from star wars!
 He is very excited here is a photo! yay!
@@ -24,3 +22,12 @@ Woop woop love partys and animals. I need Gin.
 
 Tenzing the Yak climbed to get the famed mountain chocolate from the Buddhist monks at the top of the Himalayan Ranges.
 When the monks found that he was bringing the special chocolate to the Rails Girls in Motueka, they packed his bags fully!
+
+![](http://weknowyourdreams.com/images/rabbit/rabbit-09.jpg)
+
+Animal Party is happening today
+Jerry the Rabbit is coming to stay
+He hopes there'll be bunnies, he wants to play
+He hopes his friend is coming this way
+Because the animal party is happening today
+
