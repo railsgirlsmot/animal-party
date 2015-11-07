@@ -1,1 +1,2 @@
 Animal Party!
+The camel made a nice cream cake to take to the party.she made sure she was wearing her best dress and hat.When she arrived she handed the cake in and talked to all her friends who were there.
