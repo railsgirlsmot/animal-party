@@ -1,5 +1,9 @@
 # Animal Party
 
+You can see the current party [here](https://github.com/railsgirlsmot/animal-party/blob/master/animal-party.md)!
+To preview how your contribution looks, after you `push` your changes up to GitHub, switch the branches in the options at the top:
+
+![](images/branch-switch.png)
 
 ### The Challenge
 Make a pull request to add to this collaborative tale about an EXCITING ANIMAL PARTY.
