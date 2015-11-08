@@ -17,6 +17,9 @@ Joy the Unicorn popped in for a visit. She started off the day full of enthusias
 ![](fat-unicorn.jpg)
 She then wondered if her attempt at inserting an image worked. Joy the Unicorn is getting a headache now :-)
 
+![](http://i0.wp.com/www.whaleoil.co.nz/wp-content/uploads/2013/12/pukeko_and_babe.jpg)
+The pukeko, as usual, gatecrashed the party! It brought along all its friends, chicks, neighbours, and a random weka. They ate and drank everything, whilst digging up the garden and scattering the seedlings, much to the chagrin of the host!
+
 ![](bonobo.jpg)
 How I feel about github
 
